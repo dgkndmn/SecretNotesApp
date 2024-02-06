@@ -14,7 +14,7 @@ window.title("Secret Notes App")
 window.minsize(width=350, height=570)
 window.resizable(width=False, height=False)
 
-image_path = "/Users/dogukan/Desktop/output-onlinepngtools.png"
+image_path = "output-onlinepngtools.png"
 new_width = 100
 new_height = 100
 
